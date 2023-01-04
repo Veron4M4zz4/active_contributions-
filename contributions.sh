@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-start_date=$(date -d "2022-02-18" '+%Y-%m-%d')
-end_date=$(date -d "2022-06-11" '+%Y-%m-%d')
+start_date=$(date -d "2023-01-04" '+%Y-%m-%d')
+end_date=$(date -d "2023-12-11" '+%Y-%m-%d')
 
 current_date="$start_date"
 
